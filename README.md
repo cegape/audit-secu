@@ -11,7 +11,7 @@ Kit d'audit automatise base sur les recommandations de l'ANSSI pour la securite 
 Ouvrir Claude Code **depuis ce repertoire** :
 
 ```bash
-cd /chemin/vers/secu-karim
+cd /chemin/vers/audit-secu
 claude
 ```
 
